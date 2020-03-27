@@ -24,6 +24,6 @@ All pull requests are welcome, make sure to follow the contribution guidelines w
 6. Push to the branch: git push origin my-new-feature
 7. Submit a pull request against the development branch
 
-
+## Screen shots
 <img src="screenshots/Screenshot_1585350121.png" width="250"/> 
 <img src="screenshots/Screenshot_1585350193.png" width="250"/>
